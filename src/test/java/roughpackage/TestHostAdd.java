@@ -13,7 +13,7 @@ import utilities.TestConfig;
 public class TestHostAdd {
 	
 	
-	
+	//using the error
 	public static void main(String[] args) throws UnknownHostException, AddressException, MessagingException {
 		//to sent reports to mail we need the below class
 		MonitoringMail mail=new MonitoringMail();
